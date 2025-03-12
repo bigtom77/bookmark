@@ -15,5 +15,5 @@
 [한밭대 통계학 개론](http://www.kocw.net/home/cview.do?cid=944a385c62aab5c2)  
 [OpenStax Statistics](https://openstax.org/subjects/math#Statistics)  
 
-[이스테드 경영연구소: 실험계획25글)](https://blog.naver.com/lchry/220460661462)  
+[이스테드 경영연구소: 실험계획25글](https://blog.naver.com/lchry/220460661462)  
 [FMEA DOE MSA 신뢰성 통계](http://www.ps-lab.co.kr/?page_id=1374)  
