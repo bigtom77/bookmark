@@ -11,6 +11,6 @@
 [브런치스토리](https://brunch.co.kr/now) | 
 [Unsplash](https://unsplash.com/ko) | 
 [키크니](https://imginn.com/keykney/) | 
-[펀자이씨](https://imginn.com/punj_toon/) | 
+[펀자이씨](https://imginn.com/punj_toon/)
 
 
