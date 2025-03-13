@@ -17,4 +17,4 @@
 
 [KOCW 실험계획법 강의](http://www.kocw.net/home/cview.do?cid=89b305c20cf85265)  
 [이스테드경영연구소 실험계획법 자료](https://blog.naver.com/lchry/220460661462)  
-[FMEA DOE MSA 신뢰성 통계](http://www.ps-lab.co.kr/?page_id=1374)  
+[PS-Lab 알짜자료실](http://www.ps-lab.co.kr/?page_id=1374)  
