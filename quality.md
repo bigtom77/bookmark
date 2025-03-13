@@ -4,6 +4,8 @@
 [ANOVA분석 F판정과 p판정](https://www.statisticshowto.com/probability-and-statistics/f-statistic-value-test/#ANOVA)  
 [회귀분석-분산분석 관계](https://blog.naver.com/definitice/221333302203)  
 
+[ANOVA-1원,2원,2원반복,3원 계산 예](https://blog.naver.com/iloveusm00/60015417328)  
+
 [Q-Net 기출문제](https://www.q-net.or.kr/cst006.do?id=cst00601&code=1203&gSite=Q&gId=)  
 [가을여행 문제유형분석 ](https://blog.naver.com/jhlee1026200)  
 [품질여행 문제풀이](https://blog.naver.com/muojsj)  
