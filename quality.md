@@ -15,6 +15,6 @@
 [한밭대 통계학 개론](http://www.kocw.net/home/cview.do?cid=944a385c62aab5c2)  
 [OpenStax Statistics](https://openstax.org/subjects/math#Statistics)  
 
-[KOCW 실험계획법 강의](http://www.kocw.net/home/cview.do?cid=89b305c20cf85265)  
+[KOCW 실험계획법 동영상강의](http://www.kocw.net/home/cview.do?cid=89b305c20cf85265)  
 [이스테드경영연구소 실험계획법 자료](https://blog.naver.com/lchry/220460661462)  
 [PS-Lab 알짜자료실](http://www.ps-lab.co.kr/?page_id=1374)  
