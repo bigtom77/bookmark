@@ -4,7 +4,8 @@
 [ANOVA F판정과 p판정](https://www.statisticshowto.com/probability-and-statistics/f-statistic-value-test/#ANOVA)  
 [회귀분석-분산분석 관계](https://blog.naver.com/definitice/221333302203)  
 
-[ANOVA; 일원,이원,삼원, 반복유무](https://blog.naver.com/iloveusm00/60015417328)  
+[일원,이원,삼원 분산분석 & 반복유무](https://blog.naver.com/iloveusm00/60015417328)  
+[일원,이원,삼원 분산분석 개념](https://hazel01.tistory.com/15)
 
 [Q-Net 기출문제](https://www.q-net.or.kr/cst006.do?id=cst00601&code=1203&gSite=Q&gId=)  
 [가을여행 문제유형분석 ](https://blog.naver.com/jhlee1026200)  
