@@ -6,7 +6,7 @@
 [제로IT공작소](https://blog.naver.com/zmsgfc) | 
 [홍차의 꿈](https://jsb000.tistory.com/) | 
 [티스토리](https://www.tistory.com/category/current) | 
-[브런치스토리](https://brunch.co.kr/now) | 
+[브런치스토리](https://brunch.co.kr/now) || 
 [Unsplash](https://unsplash.com/ko) | 
 [키크니](https://imginn.com/keykney/) | 
 [펀자이씨](https://imginn.com/punj_toon/)  |
