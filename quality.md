@@ -1,3 +1,5 @@
+<!-- 줄 바꾸는 명령어 : 행의 끝에 공백글자 2개 입력 or <br/> -->
+
 [Manual Statistical Computation](https://graziano-raulin.com/tutorials/stat_comp/manual_comp.htm)  
 [Sum of Square 의미](https://blog.naver.com/jaegyunjung/220869102447)  
 [ANOVA 분산분석 개념](https://diseny.tistory.com/entry/%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9DANOVA%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%951)  
@@ -23,10 +25,6 @@
 [이스테드경영연구소 실험계획법 자료](https://blog.naver.com/lchry/220460661462)  
 [PS-Lab 알짜자료실](http://www.ps-lab.co.kr/?page_id=1374)  
 
-[Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9)
-[Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) [//]: #목표치로부터의 편이
-[Cmk Cgk](https://blog.naver.com/syg6260/221499118219) [//]: Machine능력지수, Gauge능력지수
-
-
-<!-- 보이지 않는 주석 쓰는 명령어 1 -->
-[//]: # 보이지 않는 주석 쓰는 명령어 2
+[Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9) <!-- 단기/장기 Process능력 -->    
+[Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) <!-- Nominal 목표로부터의 편차 -->  
+[Cmk Cgk](https://blog.naver.com/syg6260/221499118219) <!-- Machine능력지수, Gauge능력지수 -->  
