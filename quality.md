@@ -22,3 +22,11 @@
 [KOCW 실험계획법 동영상강의](http://www.kocw.net/home/cview.do?cid=89b305c20cf85265)  
 [이스테드경영연구소 실험계획법 자료](https://blog.naver.com/lchry/220460661462)  
 [PS-Lab 알짜자료실](http://www.ps-lab.co.kr/?page_id=1374)  
+
+[Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9)
+[Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) [//]: #목표치로부터의 편이
+[Cmk Cgk](https://blog.naver.com/syg6260/221499118219) [//]: Machine능력지수, Gauge능력지수
+
+
+<!-- 보이지 않는 주석 쓰는 명령어 1 -->
+[//]: # 보이지 않는 주석 쓰는 명령어 2
