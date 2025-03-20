@@ -28,4 +28,4 @@
 [Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9) <!-- 단기/장기 Process능력 -->    
 [Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) <!-- Nominal 목표로부터의 편차, 다구찌능력지수 Taguchi Capabiliuty Measure -->  
 [Cmk Cgk](https://blog.naver.com/syg6260/221499118219) <!-- Machine능력지수, Gauge능력지수 -->  
-[능력지수 역사](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07244855)
+[능력지수 역사 (논문보기 클릭)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07244855)
