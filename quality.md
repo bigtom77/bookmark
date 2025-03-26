@@ -25,9 +25,11 @@
 [분산분석-회귀분석 관계](https://blog.naver.com/definitice/221333302203)  
 
 [능력지수의 역사 (논문보기 클릭)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07244855)  
+<!-- Cpk의 k는 Katayori 偏り Bias 한쪽으로 치우침 -->
 [Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9) <!-- 단기/장기 Process능력 -->  
 [Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) <!-- Nominal 목표로부터의 편차, 다구찌능력지수 Taguchi Capabiliuty Measure -->  
 [Cmk Cgk](https://blog.naver.com/syg6260/221499118219) <!-- Machine능력지수, Gauge능력지수 -->  
-<!-- Cpk의 k는 Katayori 偏り Bias 한쪽으로 치우침 -->
 
 [표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
+
+<!-- Boxplot의 ±1.5xIQR 구간은 정규분포의 ±2.698σ에 해당하며 전체 Data의 99.3%를 포함 -->
