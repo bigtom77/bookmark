@@ -30,4 +30,4 @@
 [Cmk Cgk](https://blog.naver.com/syg6260/221499118219) <!-- Machine능력지수, Gauge능력지수 -->  
 <!-- Cpk의 k는 Katayori 偏り Bias 한쪽으로 치우침 -->
 
-[표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
+[표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
