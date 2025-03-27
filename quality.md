@@ -24,14 +24,12 @@
 [분석분석; 일원,이원,삼원 개념](https://hazel01.tistory.com/15)  
 [분산분석-회귀분석 관계](https://blog.naver.com/definitice/221333302203)  
 
-[능력지수의 역사 (논문보기 클릭)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07244855)  
-<!-- Cpk의 k는 Katayori 偏り Bias 한쪽으로 치우침 -->
-[Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9) <!-- 단기/장기 Process능력 -->  
-[Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) <!-- Nominal 목표로부터의 편차, 다구찌능력지수 Taguchi Capabiliuty Measure -->  
-[Cmk Cgk](https://blog.naver.com/syg6260/221499118219) <!-- Machine능력지수, Gauge능력지수 -->  
+[능력지수의 역사 (논문보기 클릭)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07244855)  Cpk의 k는 Katayori 偏り Bias 한쪽으로 치우침  
+[Cp Cpk Pp Ppk](https://matthew530419.tistory.com/9) 단기/장기 Process능력  
+[Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) Nominal 목표로부터의 편차, 다구찌능력지수 Taguchi Capabiliuty Measure  
+[Cmk Cgk](https://blog.naver.com/syg6260/221499118219) Machine능력지수, Gauge능력지수  
 
 [표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
-
-<!-- Boxplot의 ±1.5xIQR 구간(수염구간)은 정규분포의 ±2.698σ에 해당. 전체 Data의 99.3%를 포함 -->
-<!-- 거꾸로 정규분포의 ±3σ에 해당하도록 IQR 영역이 만들어지려면 ±1.7xIQR로 수염길이를 정의하면 됨 -->
-<!-- Boxplot의 IQR 구간(상자구간)은 정규분포의 ±1.35σ에 해당. 전체 Data의 91%를 포함?? 50% 포함 아닌가? -->
+Boxplot의 ±1.5xIQR 구간(수염구간)은 정규분포의 ±2.698σ에 해당. 전체 Data의 99.3%를 포함  
+거꾸로 정규분포의 ±3σ에 해당하도록 IQR 영역이 만들어지려면 ±1.7xIQR로 수염길이를 정의하면 됨  
+Boxplot의 IQR 구간(상자구간)은 정규분포의 ±1.35σ에 해당. 전체 Data의 91%를 포함?? 50% 포함 아닌가?  
