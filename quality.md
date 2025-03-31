@@ -18,6 +18,7 @@
 
 [통계 손계산](https://graziano-raulin.com/tutorials/stat_comp/manual_comp.htm)  
 [제곱합 의미](https://blog.naver.com/jaegyunjung/220869102447)  
+[제공합 공식 유도](https://diseny.tistory.com/entry/%EC%A0%9C%EA%B3%B1%ED%95%A9Sum-of-Squares-SS-%EA%B0%84%ED%8E%B8%EC%8B%9D)  
 [분산분석 개념](https://diseny.tistory.com/entry/%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9DANOVA%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%951)  
 [분산분석 F판정과 p판정](https://www.statisticshowto.com/probability-and-statistics/f-statistic-value-test/#ANOVA)  
 [분산분석; 일원,이원,삼원, 반복유무](https://blog.naver.com/iloveusm00/60015417328)  
