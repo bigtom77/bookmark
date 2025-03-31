@@ -16,6 +16,7 @@
 [이스테드경영연구소 실험계획법 자료](https://blog.naver.com/lchry/220460661462)  
 [PS-Lab 알짜자료실](http://www.ps-lab.co.kr/?page_id=1374)  
 
+[분산분석 계산기 동영상](https://www.youtube.com/results?search_query=Ah+Sing+Math+fx-570%2F991ex+anova)  
 [통계 손계산](https://graziano-raulin.com/tutorials/stat_comp/manual_comp.htm)  
 [제곱합 의미](https://blog.naver.com/jaegyunjung/220869102447)  
 [제공합 공식 유도](https://diseny.tistory.com/entry/%EC%A0%9C%EA%B3%B1%ED%95%A9Sum-of-Squares-SS-%EA%B0%84%ED%8E%B8%EC%8B%9D)  
