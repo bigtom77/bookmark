@@ -11,4 +11,4 @@
 [키크니](https://imginn.com/keykney/) | 
 [펀자이씨](https://imginn.com/punj_toon/)  |
 
-[북마크관리](https://github.com/bigtom77/bookmark/tree/main) || [품질지식 묶음](./quality.md) | [도서관 묶음](./library.md) | [여러가지 묶음](./various.md)  |
+[북마크관리](https://github.com/bigtom77/bookmark/tree/main) || [품질지식 묶음](./quality.md) | [이슈기술 묶음](./technology.md) | [도서관 묶음](./library.md) | [여러가지 묶음](./various.md)  |
