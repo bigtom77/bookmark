@@ -9,4 +9,4 @@
 [로워드 실검](https://loword.co.kr/keywordTrend) | [미디어 실검](https://kdx.kr/service/searchtrend/view) | [시그널 실검](https://signal.bz/) | [티스토리](https://www.tistory.com/category/current) | [브런치스토리](https://brunch.co.kr/now)
 [제로IT공작소](https://blog.naver.com/zmsgfc) | [홍차의 꿈](https://jsb000.tistory.com/) | [펀자이씨](https://imginn.com/punj_toon/) | [키크니](https://imginn.com/keykney/) | [Unsplash](https://unsplash.com/ko)
 |  |  |  |  |  |
-[북마크 관리](https://github.com/bigtom77/bookmark/tree/main) | [여러가지 묶음](./variety.md) | [도서관 묶음](./library.md) | [기술동향 묶음](./technology.md) | [품질지식 묶음](./quality.md)
+[북마크 관리](https://github.com/bigtom77/bookmark/tree/main) | [잡다 묶음](./variety.md) | [도서관 묶음](./library.md) | [기술동향 묶음](./technology.md) | [품질지식 묶음](./quality.md)
