@@ -32,7 +32,7 @@
 [Cmk Cgk](https://blog.naver.com/syg6260/221499118219) Machine능력지수, Gauge능력지수  
 
 [OC곡선 N,n,Ac 증감 1](https://blog.naver.com/jhlee1026200/20161262397)  
-[OC곡선 N,n,Ac 증감 2](https://blog.naver.com/muojsj/221193591397)  
+[OC곡선 N,n,Ac 증감 2](https://blog.naver.com/muojsj/221193591397)  IQL Indifference Quality Level 로트합격확률 50%의 품질수준, 무차별품질수준, 관리점  
 
 [표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
 Boxplot의 ±1.5xIQR 구간(수염구간)은 정규분포의 ±2.698σ에 해당. 전체 Data의 99.3%를 포함  
