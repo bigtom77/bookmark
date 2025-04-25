@@ -31,6 +31,8 @@
 [Cpm Cpmk](https://blog.naver.com/syg6260/221484839672) Nominal 목표로부터의 편차, 다구찌능력지수 Taguchi Capabiliuty Measure  
 [Cmk Cgk](https://blog.naver.com/syg6260/221499118219) Machine능력지수, Gauge능력지수  
 
+[박스플롯-정규분포시그마 관계](https://en.wikipedia.org/wiki/File:Boxplot_vs_PDF.svg)  
+
 [OC곡선 N,n,Ac 증감 1](https://blog.naver.com/jhlee1026200/20161262397)  
 [OC곡선 N,n,Ac 증감 2](https://blog.naver.com/muojsj/221193591397)  
 [OC curve calculator](https://www.acceptancesampling.com)  
