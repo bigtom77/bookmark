@@ -33,6 +33,7 @@
 
 [OC곡선 N,n,Ac 증감 1](https://blog.naver.com/jhlee1026200/20161262397)  
 [OC곡선 N,n,Ac 증감 2](https://blog.naver.com/muojsj/221193591397)  
+[OC curve calculator](https://www.acceptancesampling.com)  
 검사특성곡선. IQL Indifference Quality Level 로트합격확률 50%의 품질수준 = 무차별품질수준 = 관리점  
 
 [표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
