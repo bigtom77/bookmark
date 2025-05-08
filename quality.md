@@ -45,7 +45,7 @@ Boxplot의 ±1.5xIQR 구간(수염구간)은 정규분포의 ±2.698σ에 해당
 Boxplot의 IQR 구간(상자구간)은 정규분포의 ±1.35σ에 해당. 전체 Data의 91%를 포함?? 50% 포함 아닌가?  
 
 중심극한정리 Central Limit Theorem CLT  
-[CLT 설명 1](https://angeloyeo.github.io/2020/09/15/CLT_meaning.html)    
+[CLT 설명 1](https://angeloyeo.github.io/2020/09/15/CLT_meaning.html)  
 [CLT 설명 2](https://velog.io/@bumblebeeda/%ED%86%B5%EA%B3%84-%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95-%EC%A0%84%EC%97%90-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83-%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC-%EC%A4%91%EC%8B%AC%EA%B7%B9%ED%95%9C%EC%A0%95%EB%A6%AC)  
 
 실험계획법 원리 / DOE principles 
