@@ -14,7 +14,7 @@
 [광진구립 77](https://www.gwangjinlib.seoul.kr/gjinfo/memberLogin.do?returnUrl=/gjinfo/40007/contents.do)  |
 [성동구립](https://www.sdlib.or.kr/SD/site/member/login.do?prepage=%2FSD%2Fmain.do)  |
 [성북정보](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
-[이진아+ sd](https://lib.sdm.or.kr/sdmlib/program/memberLogin.do)  |
+[이진아+ sd (제한)](https://lib.sdm.or.kr/sdmlib/program/memberLogin.do)  |
 [서울시교육청 sen](https://e-lib.sen.go.kr/member/login.php)  |
 
 [수원시 swl](https://www.suwonlib.go.kr/ct/member/login.asp)  |
