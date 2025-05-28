@@ -8,10 +8,12 @@
   
 [전자책 통합검색](http://ebook.starlove.net) |  
 
-[서초구-구독형](https://seocholib.dkyobobook.co.kr/main.ink)  |
-[경기도사이버-구독형](https://ebook.library.kr/login?from=/category?contentType=SUBS&listType=list&page=1&sort=download&asc=desc&size=12)  |
-[강진군-구독형](https://gjlib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//gjlib.dkyobobook.co.kr/main.ink)  |
+구독형 -----  
+[서초구](https://seocholib.dkyobobook.co.kr/main.ink)  |
+[경기도사이버 느업ggcl](https://ebook.library.kr/login?from=/category?contentType=SUBS&listType=list&page=1&sort=download&asc=desc&size=12)  |
+[강진군](https://gjlib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//gjlib.dkyobobook.co.kr/main.ink)  |
 
+대출형 -----  
 [서초구](https://ebook.seocholib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.seocholib.or.kr/elibrary-front/main.ink)  |
 [강남구](https://ebook.gangnam.go.kr/libmem/mem_login.asp)  |
 [송파구통합](https://www.splib.or.kr/intro/program/memberLogin.do)  |
@@ -20,8 +22,8 @@
 [성북정보](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
 [서울시교육청 sen](https://e-lib.sen.go.kr/member/login.php)  |
 
-[수원시 swl](https://www.suwonlib.go.kr/ct/member/login.asp)  |
 [경기도사이버 느업ggcl](https://www.library.kr/cyber/page/login)  |
+[수원시 swl](https://www.suwonlib.go.kr/ct/member/login.asp)  |
 [인천서구구립](https://www.issl.go.kr/main/index.do?curl=/user/login.do&menu1=login&scd=1)  |
 [강진군](https://www.gjlib.go.kr:446/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//www.gjlib.go.kr%3A446/elibrary-front/)  |
 [경산시립 gbgs](https://lib.gbgs.go.kr/login/login.tc?mn=1030&pageSeq=623)  |
