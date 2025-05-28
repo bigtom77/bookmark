@@ -22,7 +22,7 @@
 [김제시립 gj](https://gjl.gimje.go.kr/index.gimje?menuCd=DOM_000000107007000000)  |
 [오산시중앙](https://www.osanlibrary.go.kr/member/login.do)  
 
-도서관 행사 신청 -------  
+도서관 행사 -------  
 [송파글마루](https://www.splib.or.kr/spjlib/index.do)  |
 [송파구통합](https://www.splib.or.kr/intro/menu/10052/program/30014/eventList.do)  |
 [강남구통합](https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do)  |
