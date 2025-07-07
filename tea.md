@@ -3,6 +3,7 @@
 [흑차 제조 과정](https://blog.naver.com/geomri/221228913819)  
 [우리 문헌의 차](https://blog.naver.com/and002/110007712824)  
 [첫물차 우전 명전](https://brunch.co.kr/@kahn/362)  청명 4월초, 곡우 4월중하  
+[녹차 내리는 방법 량 시간](https://m.blog.naver.com/52_thanks/220892449720)  
   
 [오늘은 무슨 차 마실까](https://brunch.co.kr/brunchbook/dadadtea)  
 [세계 3대 홍차](https://m.blog.naver.com/tivine/221646452626)  다즐링 우바 기문  
