@@ -1,7 +1,7 @@
 <!-- 줄 바꾸는 명령어 : 행의 끝에 공백글자 2개 입력 or <br/> -->
 
 [Q-Net 기출문제](https://www.q-net.or.kr/cst006.do?id=cst00601&code=1203&gSite=Q&gId=)  
-[가을여행 문제유형분석 ](https://blog.naver.com/jhlee1026200)  
+[가을여행 문제유형분석](https://blog.naver.com/jhlee1026200)  
 [품질여행 문제풀이](https://blog.naver.com/muojsj)  
 [StatEdu Q&A](http://www.statedu.com/qna)  
 [의미를 이해하는 통계](https://diseny.tistory.com/entry/%EB%B6%84%EC%82%B0%EC%9C%BC%EB%A1%9C-%ED%8F%89%EA%B7%A0%EC%B0%A8%EC%9D%B4-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0)  
