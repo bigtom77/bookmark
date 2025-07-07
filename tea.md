@@ -6,7 +6,8 @@
   
 [오늘은 무슨 차 마실까](https://brunch.co.kr/brunchbook/dadadtea)  
 [세계 3대 홍차](https://m.blog.naver.com/tivine/221646452626)  다즐링 우바 기문  
-[중국 10대 명차](https://brunch.co.kr/brunchbook/chinatea)  용정 철관음 보이 기문 은침 벽라춘 등  
+[중국 10대 명차](https://brunch.co.kr/brunchbook/chinatea)  
+용정 벽라춘 Green / 철관음 Oolong / 기문 Black / 보이 Dark 등  
 []()  
   
 녹차: 작설차(두춘차), 일본 말차  
