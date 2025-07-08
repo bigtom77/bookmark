@@ -14,7 +14,7 @@
 [성북정보](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
 [서울시교육청 sen](https://e-lib.sen.go.kr/login)    
 
-[경기도사이버 느업ggcl](https://www.library.kr/cyber/page/login)  |
+[경기도사이버 느업ggcl](https://ebook.library.kr/login)  |
 [수원시 swl](https://www.suwonlib.go.kr/ct/member/login.asp)  |
 [인천서구구립](https://www.issl.go.kr/main/index.do?curl=/user/login.do&menu1=login&scd=1)  |
 [강진군](https://www.gjlib.go.kr:446/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//www.gjlib.go.kr%3A446/elibrary-front/)  |
