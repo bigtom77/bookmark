@@ -39,7 +39,7 @@
 
 
 
-전자도서관 검색 - 별아해의 웹러브
+전자도서관 검색 - 별아해의 웹러브 
 http://ebook.starlove.net
 http://www.okbari.net
 
