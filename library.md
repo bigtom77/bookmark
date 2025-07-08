@@ -1,7 +1,7 @@
 [전자책 통합검색](http://ebook.starlove.net)  
 
 구독형 도서관 -------  
-[서초구](https://seocholib.dkyobobook.co.kr/main.ink)  |
+[서초구](https://seocholib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [경기도사이버 느업ggcl](https://ebook.library.kr/login?from=/category?contentType=SUBS&listType=list&page=1&sort=download&asc=desc&size=12)  |
 [강진군](https://gjlib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//gjlib.dkyobobook.co.kr/main.ink)  
 
