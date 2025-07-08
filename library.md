@@ -18,7 +18,7 @@
 [수원시 swl](https://ebook.suwonlib.go.kr/elibrary-front/member/memberLogin.ink)  |
 [인천서구구립](https://issllib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [강진군](https://www.gjlib.go.kr:446/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//www.gjlib.go.kr%3A446/elibrary-front/)  |
-[경산시립 gbgs](https://lib.gbgs.go.kr/login/login.tc?mn=1030&pageSeq=623)  |
+[경산시립 gbgs](https://elib.gbgs.go.kr/member/?mode=login)  |
 [김제시립 gj](https://gjl.gimje.go.kr/index.gimje?menuCd=DOM_000000107007000000)  |
 [오산시중앙](https://www.osanlibrary.go.kr/member/login.do)  
 
