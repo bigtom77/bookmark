@@ -2,7 +2,7 @@
 [녹차 작설 우전 세작 중작 대작](https://brunch.co.kr/@brunch3auo/42)  
 [흑차 제조 과정](https://blog.naver.com/geomri/221228913819)  
 [우리 문헌의 차](https://blog.naver.com/and002/110007712824)  
-[첫물차 우전 명전](https://brunch.co.kr/@kahn/362)  청명 4월초, 곡우 4월중하  
+[첫물차 우전 명전](https://brunch.co.kr/@kahn/362)  청명 4월4일, 곡우 4월20일  
 [녹차 내리는 방법 량 시간](https://m.blog.naver.com/52_thanks/220892449720)  
   
 [오늘은 무슨 차 마실까](https://brunch.co.kr/brunchbook/dadadtea)  
