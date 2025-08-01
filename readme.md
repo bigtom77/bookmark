@@ -1,6 +1,6 @@
 <!-- 줄바꾸기는 행 끝에 스페이스 두칸 입력 -->
 <!-- 표 셀 내용 왼쪽정렬 :--- , 오른쪽정렬 ---: , 가운데정렬 :---: -->
-|  |  |  |  |  |  |  |  
+
 |--|--|--|--|--|--|--|  
 [NEWS](https://english.hani.co.kr/arti/english_edition) | [뉴스](https://news.naver.com) |  [날씨](https://www.weather.go.kr/w/index.do) | [지도](https://map.naver.com/) | [유튜브](https://www.youtube.com) | [네이버](https://www.naver.com) 
 [Unsplash](https://unsplash.com/ko) | [DeepL](https://www.deepl.com/en/write) | [사전](https://dict.naver.com) | [구글번역](https://translate.google.co.kr/?hl=ko&tab=TT) | [파파고](https://papago.naver.com/?sk=auto&tk=en) 
