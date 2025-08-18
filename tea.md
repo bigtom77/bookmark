@@ -5,7 +5,8 @@
 [첫물차 우전 명전](https://brunch.co.kr/@kahn/362)  청명 4월4일, 곡우 4월20일  
 [녹차 내리는 방법 량 시간](https://m.blog.naver.com/52_thanks/220892449720)  
 찻잎 티스푼 1개, 물 70도 170ml,  첫물 2분, 그후 +30초  
-(샤워기 뜨거운 물 약 60도, 정수기 뜨거운 물 약 80도)
+(정수기 뜨거운 물 약 80도, 샤워기 뜨거운 물 약 60도)
+(자판기 종이컵 180~190ml, 테이크아웃 커피 종이컵 약 240ml)
   
 [오늘은 무슨 차 마실까](https://brunch.co.kr/brunchbook/dadadtea)  
 [세계 3대 홍차](https://m.blog.naver.com/tivine/221646452626)  Darjeeling Uva Keemun  
