@@ -2,7 +2,7 @@
 [녹차 작설 우전 세작 중작 대작](https://brunch.co.kr/@brunch3auo/42)  
 [흑차 제조 과정](https://blog.naver.com/geomri/221228913819)  
 [우리 문헌의 차](https://blog.naver.com/and002/110007712824)  
-[첫물차 우전 명전](https://brunch.co.kr/@kahn/362)  청명 4월4일, 곡우 4월20일  
+[첫물차 우전 명전](https://brunch.co.kr/@kahn/362)  청명 4월5일, 곡우 4월20일  
 [녹차 내리는 방법 량 시간](https://m.blog.naver.com/52_thanks/220892449720)  
 찻잎 티스푼 1개, 물 70도 170ml,  첫물 2분, 그후 +30초  
 (정수기 뜨거운 물 약 80도, 샤워기 뜨거운 물 약 60도)  
