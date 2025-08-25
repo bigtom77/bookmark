@@ -48,7 +48,8 @@ Green 용정 벽라춘 / Oolong 무이암 철관음 / Black 기문 / Dark 보이
   
 차 > 녹차 홍차 > 잎차 > 차 나무 > Camellia sinensis (동백 사촌)  
 모든 차 나무는 카멜리아 시넨시스이고, 중국, 인도, 일본, 캄보디아 지역별 하위 변종으로 나뉨  
-Sinensis는 중국(Sina) 유래종 의미.  동백꽃 나무는 Camellia Japonica (야포니카). 
+Sinensis는 중국(Sina) 유래종 의미.  동백꽃 나무는 Camellia Japonica (야포니카).  
+  
 생물분류체계 (종속과목강문계)  
 식물계 진달래목 차나무과 동백나무속  
 동물계 척삭동물문 포유강 영장목 사람과 사람속 사피엔스종 현생인류  
