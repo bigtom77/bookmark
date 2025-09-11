@@ -13,7 +13,7 @@
 [광진구립 77](https://www.gwangjinlib.seoul.kr/gjinfo/memberLogin.do?returnUrl=/gjinfo/40007/contents.do)  |
 [성동구립](https://www.sdlib.or.kr/SD/site/member/login.do?prepage=%2FSD%2Fmain.do)  |
 [성북정보](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
-[강부문화정보](https://ebook.gblib.or.kr/Kyobo_T3/Default.asp)  |
+[강북문화정보](https://ebook.gblib.or.kr/Kyobo_T3/Default.asp)  |
 [서울시교육청 sen](https://e-lib.sen.go.kr/login)    
 
 [경기도사이버 느업ggcl](https://ebook.library.kr/login)  |
