@@ -2,7 +2,7 @@
 
 구독형 도서관 -------  
 [서초구](https://seocholib.dkyobobook.co.kr/member/memberLogin.ink)  |
-[강진군](https://gjlib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//gjlib.dkyobobook.co.kr/main.ink)  |
+[강진군](https://gjlib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//gjlib.dkyobobook.co.kr/main.ink)  |  
 [부커스 : 강북문화정보, 경기도사이버 느업ggcl](https://www.bookers.life/login.do)  |
 
 대출형 도서관 -------  
