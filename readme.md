@@ -6,4 +6,4 @@
 [사전](https://dict.naver.com) | [파파고](https://papago.naver.com/?sk=auto&tk=en) | [DeepL](https://www.deepl.com/en/write) | [NEWS](https://english.hani.co.kr/arti/english_edition) | [뉴스](https://news.naver.com)  
 [구글트렌드](https://trends.google.co.kr/trending?geo=KR&status=active&sort=recency&hours=24) | [로워드실검](https://loword.co.kr/keywordTrend) | [시그널실검](https://signal.bz/) | [브런치스토리](https://brunch.co.kr/now) | [티스토리](https://www.tistory.com/category/current)  
 [제로IT공작소](https://blog.naver.com/zmsgfc) | [홍차의꿈](https://jsb000.tistory.com/) | [Unsplash](https://unsplash.com/ko) | [펀자이씨](https://imginn.com/punj_toon/) | [키크니](https://imginn.com/keykney/)  
-[IT정보사이트](https://riwltnchgo.tistory.com/132 |  |  |  |  
+[IT정보사이트](https://riwltnchgo.tistory.com/132) |  |  |  |  
