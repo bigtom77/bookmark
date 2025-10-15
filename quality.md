@@ -2,10 +2,10 @@
 
 [Q-Net 기출문제](https://www.q-net.or.kr/cst006.do?id=cst00601&code=1203&gSite=Q&gId=)  
 [필기시험 준비물](https://soncs.tistory.com/116)  
-[필기시험 답안작성요령](https://blog.naver.com/qualityengineer/223511281853)  
-[필기시험 답안작성 주의사항](https://www.q-net.or.kr/rcv002.do?id=rcv002_baseInfo&gSite=Q&gId=)  
-[시험 준비](https://blog.naver.com/jeywmin/21592559)  
-[시험 준비과정](https://m.blog.naver.com/haiena21/220981134824)  
+[필기답안작성](https://blog.naver.com/qualityengineer/223511281853)  
+[필기답안작성](https://www.q-net.or.kr/rcv002.do?id=rcv002_baseInfo&gSite=Q&gId=)  
+[시험준비](https://blog.naver.com/jeywmin/21592559)  
+[시험준비](https://m.blog.naver.com/haiena21/220981134824)  
 [가을여행 문제유형분석](https://blog.naver.com/jhlee1026200)  
 [품질여행 문제풀이](https://blog.naver.com/muojsj)  
 
