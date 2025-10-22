@@ -1,0 +1,11 @@
+[홍차의꿈](https://jsb000.tistory.com/)  
+[제로IT공작소](https://blog.naver.com/zmsgfc)  
+[IT정보](https://riwltnchgo.tistory.com/132)  
+[IT뉴스](https://blog.daouoffice.com/entry/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%B4-%EC%9D%BD%EC%96%B4%EB%B3%B4%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-%F0%9F%93%83-IT-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-5%EA%B0%9C-%EC%B6%94%EC%B2%9C-IT-%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%EC%B6%94%EC%B2%9C)  
+[요즘IT](https://yozm.wishket.com/magazine/list/new)  
+[테크42](https://www.tech42.co.kr)  
+[IT월드](https://www.itworld.co.kr)  
+
+[Unsplash](https://unsplash.com/ko)  
+[펀자이씨](https://imginn.com/punj_toon/)  
+[키크니](https://imginn.com/keykney/)  
