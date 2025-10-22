@@ -5,7 +5,3 @@
 [요즘IT](https://yozm.wishket.com/magazine/list/new)  
 [테크42](https://www.tech42.co.kr)  
 [IT월드](https://www.itworld.co.kr)  
-
-[Unsplash](https://unsplash.com/ko)  
-[펀자이씨](https://imginn.com/punj_toon/)  
-[키크니](https://imginn.com/keykney/)  
