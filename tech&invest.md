@@ -1,5 +1,3 @@
-기술 동향  
-  
 [테크포커스](https://www.techfocus.kr)  
 [삼일회계법인 - Insights](https://www.pwc.com/kr/ko/insights.html)  
 [정보통신산업진흥원 - 글로벌ICT동향](https://www.globalict.kr)  
@@ -13,8 +11,4 @@ Grace Hopper 1900년대 미국 여성 컴퓨터 과학자, 해군제. 코볼 개
 David Blackwell 미국 흑인 통계학자, 수학자. 게임이론 확률이론 공헌  
 Vera Rubin 미국 여성 천문학자. 운하회전 선구적 연구. 암흑물질 이론의 바탕  
   
-  
-  
-시장,경제,투자 정보  
-  
-[피우스 블로그](https://blog.naver.com/jeunkim)  
+[피우스 시장,경제,투자 블로그](https://blog.naver.com/jeunkim)  
