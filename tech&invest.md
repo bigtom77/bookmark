@@ -10,3 +10,5 @@ Ada Lovelace 1800년대 영국 여성 수학자 및 작가. 프로그래밍과 �
 Grace Hopper 1900년대 미국 여성 컴퓨터 과학자, 해군제. 코볼 개발 주도  
 David Blackwell 미국 흑인 통계학자, 수학자. 게임이론 확률이론 공헌  
 Vera Rubin 미국 여성 천문학자. 운하회전 선구적 연구. 암흑물질 이론의 바탕  
+
+[피우스 시장,경제,투자 블로그](https://blog.naver.com/jeunkim)  
