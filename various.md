@@ -6,7 +6,7 @@
 [중국어사전](https://zh.dict.naver.com/#/main)  
 [MBC라디오](https://miniwebapp.imbc.com/index?channel=mfm)  
 [Radio Swiss](https://www.radioswissclassic.ch/en)  
-[Top websites](https://www.semrush.com/website/top)  
+[인기 웹사이트](https://ko.semrush.com/trending-websites/kr/all)  
 
 [Gemini 유튜브 요약](https://gemini.google.com/gem/cdaa14d379ab) xyz멜  
 [YouTube Download](https://www.mediamister.com/free-youtube-video-downloader)  
