@@ -1,1 +1,0 @@
-[ㅅㅅ](www.yahoo.com)
