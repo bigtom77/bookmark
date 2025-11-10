@@ -3,7 +3,7 @@
 구독 도서관 -------  
 [서초구](https://seocholib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [강진군](https://gjlib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//gjlib.dkyobobook.co.kr/main.ink)  |
-[Bookers : 강북문화정보, 경기도사이버 느업ggcl](https://www.bookers.life/login.do)  |
+[Bookers : 서울시교육청,경기도서관,강북문화정보](https://www.bookers.life/login.do)  |
 
 대출 도서관 -------  
 [서초구](https://ebook.seocholib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.seocholib.or.kr/elibrary-front/main.ink)  |
@@ -15,7 +15,7 @@
 [강북문화정보](https://ebook.gblib.or.kr/Kyobo_T3/Default.asp)  |
 [서울시교육청 sen](https://e-lib.sen.go.kr/login)    
 
-[경기도사이버 느업ggcl](https://ebook.library.kr/login)  |
+[경기도서관](https://ebook.library.kr/login)  |
 [수원시 swl](https://ebook.suwonlib.go.kr/elibrary-front/member/memberLogin.ink)  |
 [인천서구구립](https://issllib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [강진군](https://www.gjlib.go.kr:446/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//www.gjlib.go.kr%3A446/elibrary-front/)  |
