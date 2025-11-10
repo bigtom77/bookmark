@@ -30,3 +30,9 @@
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/PostView.naver?blogId=levis83&logNo=223713766003&navType=by) 광진구 25년210만원  
 [더뉴그랜저 반자율주행 설치](https://m.oh-car.co.kr/goods/goods_view.php?goodsNo=1000356894) 양천구 중고부품  
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/dexcrewgj/222861988691) 전남광주  
+
+[엔비디아 GPU 이름](https://blog.naver.com/jeunkim/223877961526?trackingCode=rss)  
+Ada Lovelace 1800년대 영국 여성 수학자 및 작가. 프로그래밍과 알로리즘 개념 최초 사용  
+Grace Hopper 1900년대 미국 여성 컴퓨터 과학자, 해군제독. 코볼 개발 주도  
+David Blackwell 미국 흑인 통계학자, 수학자. 게임이론 확률이론 공헌  
+Vera Rubin 미국 여성 천문학자. 은하 회전 선구적 연구. 암흑물질 이론의 바탕  
