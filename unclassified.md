@@ -25,6 +25,7 @@
 [갤럭시 배터리 수명 확인](https://yodams.com/it-whitepaper/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%B0%B0%ED%84%B0%EB%A6%AC-%EC%88%98%EB%AA%85-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95-%EC%88%98%EC%B9%98%EA%B9%8C%EC%A7%80-%EC%A0%95%ED%99%95%ED%95%98%EA%B2%8C)  
 [안드로이드 루팅](https://m.blog.naver.com/kimmingul/221830463305) CPU가속  
 [드롱기 그라인더 튜닝](https://m.blog.naver.com/PostView.naver?blogId=neovamp99&logNo=222192061687&proxyReferer=https:%2F%2Fwww.google.com%2F&trackingCode=external)  
+  
 [차 네비 업데이트](https://update.hyundai.com/KR/KO/search)  
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/PostView.naver?blogId=levis83&logNo=223713766003&navType=by) 광진구 25년210만원  
 [더뉴그랜저 반자율주행 설치](https://m.oh-car.co.kr/goods/goods_view.php?goodsNo=1000356894) 양천구 중고부품  
