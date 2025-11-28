@@ -8,7 +8,6 @@
 [Radio Swiss](https://www.radioswissclassic.ch/en)  
 [인기 웹사이트](https://ko.semrush.com/trending-websites/kr/all)  
 
-[Gemini 유튜브 요약](https://gemini.google.com/gem/cdaa14d379ab) xyz멜  
 [YouTube Download](https://www.mediamister.com/free-youtube-video-downloader)  
 [RVX lite](https://t.me/s/rvx_lite)  
 [xManager](https://www.xmanagerapp.com/)  
