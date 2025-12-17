@@ -1,6 +1,6 @@
 [테크포커스](https://www.techfocus.kr)  
-[삼일회계법인 - Insights](https://www.pwc.com/kr/ko/insights.html)  
 [현대경제연구원](https://www.hri.co.kr/kor/report/report.html?mode=1)  
+[삼일회계법인 - Insights](https://www.pwc.com/kr/ko/insights.html)  
 [정보통신산업진흥원 - 글로벌ICT동향](https://www.globalict.kr)  
 
 [요즘IT - 트렌드](https://yozm.wishket.com/magazine/list/trend)  
