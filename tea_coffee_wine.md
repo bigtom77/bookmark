@@ -68,4 +68,4 @@ Sinensis는 중국(Sina) 유래종 의미.  동백꽃 나무는 Camellia Japonic
 와인 ------------------------------------------------------  
 
 [와인 맛 표현](https://dayswithday.tistory.com/category/%EB%8D%B0%EC%9D%B4%EC%9D%98%20%EA%B3%B5%EB%B6%80/f%20%26%20b)  
-[와인향 표현](https://brunch.co.kr/@typhoonk83/28)  
+[와인 향 표현](https://brunch.co.kr/@typhoonk83/28)  
