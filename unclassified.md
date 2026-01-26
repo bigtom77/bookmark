@@ -14,7 +14,8 @@
 [윈도우포럼 자료실](https://windowsforum.kr/data/21714733)  
 [홍차의꿈](https://jsb000.tistory.com/)  
 [제로IT공작소](https://blog.naver.com/zmsgfc)  
-  
+
+[AI프롬프트 최신요령](https://blog.naver.com/jwon_blog/224084837505)  
 [가락수산몰 팁](https://tpirates.com/%EC%BD%98%ED%85%90%EC%B8%A0/1350/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%BE%8C%EC%A0%81%ED%95%9C-%EC%88%98%EC%82%B0%EC%8B%9C%EC%9E%A5-%EA%B0%80%EB%9D%BD%EC%8B%9C%EC%9E%A5-%ED%9A%8C%EC%84%BC%ED%84%B0-%EA%B0%80%EB%9D%BD%EB%AA%B0-%EA%BF%80%ED%8C%81-%EC%B4%9D%EC%A0%95%EB%A6%AC)  
 [서양미술사](https://m.blog.naver.com/feel_designs/100162037494)  
 [법륜스님](https://m.blog.naver.com/PostList.naver?blogId=pomnyun&tab=1)  
