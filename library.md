@@ -22,7 +22,7 @@
 [김제시립 gj](https://ebook-gjl.gimje.go.kr:444/elibrary-front/member/memberLogin.ink)  |
 [오산시중앙](https://www.osanlibrary.go.kr/intro/program/memberLogin.do)  
 
-문화 행사 -------  
+문화/체험 행사 -------  
 [송파글마루](https://www.splib.or.kr/spjlib/index.do)  |
 [송파구통합](https://www.splib.or.kr/intro/menu/10052/program/30014/eventList.do)  |
 [강남구통합](https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do)  |
