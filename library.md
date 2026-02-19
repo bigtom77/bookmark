@@ -30,4 +30,5 @@
 [광진정보](https://www.gwangjinlib.seoul.kr/gjinfo/eventList.do?programTypeCd=news)  |
 [성동구립](https://www.sdlib.or.kr/SD/edusat/list.do)  |
 [서울시교육청통합](https://lib.sen.go.kr/lib/module/teach/index.do?menu_idx=11)  
-[서울시공공서비스예약](https://yeyak.seoul.go.kr/web/main.do)  
+[서울시공공서비스예약](https://yeyak.seoul.go.kr/web/main.do)  |
+[서울시집수리닷컴](https://jibsuri.seoul.go.kr/academy/list.do)  
