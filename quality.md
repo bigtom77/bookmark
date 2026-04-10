@@ -6,6 +6,7 @@
 [필기답안작성](https://www.q-net.or.kr/rcv002.do?id=rcv002_baseInfo&gSite=Q&gId=)  
 [시험준비](https://blog.naver.com/jeywmin/21592559)  
 [시험준비](https://m.blog.naver.com/haiena21/220981134824)  
+[3개월합격](https://m.blog.naver.com/changeangel/222890917441)  
 [가을여행 문제유형분석](https://blog.naver.com/jhlee1026200)  
 [품질여행 문제풀이](https://blog.naver.com/muojsj)  
 
