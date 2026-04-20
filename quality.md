@@ -50,6 +50,8 @@
 [OC curve calculator](https://www.acceptancesampling.com)  
 검사특성곡선. IQL Indifference Quality Level 로트합격확률 50%의 품질수준 = 무차별품질수준 = 관리점  
 
+[식스시그마 101가지 이야기](https://share.google/e4GZrJiVNb0IezeE3)  
+
 [표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
 Boxplot의 ±1.5xIQR 구간(수염구간)은 정규분포의 ±2.698σ에 해당. 전체 Data의 99.3%를 포함  
 거꾸로 정규분포의 ±3σ에 해당하도록 IQR 영역이 만들어지려면 ±1.7xIQR로 수염길이를 정의하면 됨  
