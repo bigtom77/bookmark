@@ -51,6 +51,7 @@
 검사특성곡선. IQL Indifference Quality Level 로트합격확률 50%의 품질수준 = 무차별품질수준 = 관리점  
 
 [식스시그마 101가지 이야기](https://share.google/e4GZrJiVNb0IezeE3)  
+[품질노트](https://m.cafe.daum.net/qualitystory/gKj?boardType=)  
 
 [표본표준편차/표본분산의 분모가 (n-1)인 이유](https://m.blog.naver.com/sjloveu2/222908526347)  
 Boxplot의 ±1.5xIQR 구간(수염구간)은 정규분포의 ±2.698σ에 해당. 전체 Data의 99.3%를 포함  
