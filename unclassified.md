@@ -26,6 +26,7 @@
 [갤럭시 배터리 수명 확인](https://yodams.com/it-whitepaper/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%B0%B0%ED%84%B0%EB%A6%AC-%EC%88%98%EB%AA%85-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95-%EC%88%98%EC%B9%98%EA%B9%8C%EC%A7%80-%EC%A0%95%ED%99%95%ED%95%98%EA%B2%8C)  
 [안드로이드 루팅](https://m.blog.naver.com/kimmingul/221830463305) CPU가속  
 [드롱기 그라인더 튜닝](https://m.blog.naver.com/PostView.naver?blogId=neovamp99&logNo=222192061687&proxyReferer=https:%2F%2Fwww.google.com%2F&trackingCode=external)  
+[밀리타 카페오 솔로 설명서](https://siwoone.tistory.com/6052015)  
   
 [차 네비 업데이트](https://update.hyundai.com/KR/KO/search)  
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/PostView.naver?blogId=levis83&logNo=223713766003&navType=by) 광진구 25년210만원  
@@ -33,7 +34,7 @@
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/dexcrewgj/222861988691) 전남광주  
 
 [엔비디아 GPU 이름](https://blog.naver.com/jeunkim/223877961526?trackingCode=rss)  
-Ada Lovelace 1800년대 영국 여성 수학자 및 작가. 프로그래밍과 알로리즘 개념 최초 사용  
+Ada Lovelace 1800년대 영국 여성 수학자 및 작가. 프로그래밍과 알로리즘 개념 최초 사용
 Grace Hopper 1900년대 미국 여성 컴퓨터 과학자, 해군제독. 코볼 개발 주도  
 David Blackwell 미국 흑인 통계학자, 수학자. 게임이론 확률이론 공헌  
 Vera Rubin 미국 여성 천문학자. 은하 회전 선구적 연구. 암흑물질 이론의 바탕  
