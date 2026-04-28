@@ -11,9 +11,8 @@
 [광진구립 77](https://www.gwangjinlib.seoul.kr/gjinfo/memberLogin.do?returnUrl=/gjinfo/40007/contents.do)  |
 [성동구립](https://www.sdlib.or.kr/SD/site/member/login.do?prepage=%2FSD%2Fmain.do)  |
 [성북정보](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
-[강북문화정보](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  |
-[서울시교육청 sen](https://e-lib.sen.go.kr/login)    
-
+[강북문화정보](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  
+[서울시교육청 sen](https://e-lib.sen.go.kr/login)  |
 [경기도서관](https://ebook.library.kr/login)  |
 [수원시 swl](https://ebook.suwonlib.go.kr/elibrary-front/member/memberLogin.ink)  |
 [인천서구구립](https://issllib.dkyobobook.co.kr/member/memberLogin.ink)  |
