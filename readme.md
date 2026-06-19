@@ -5,6 +5,4 @@
 [피트니스](https://fit.shillashp.com/my/user-info/entrance-detail) | [지도](https://map.naver.com/) | [날씨](https://www.weather.go.kr/w/index.do) | [유튜브](https://www.youtube.com) | [네이버](https://www.naver.com)  
 [사전](https://dict.naver.com) | [파파고](https://papago.naver.com/?sk=auto&tk=en) | [DeepL](https://www.deepl.com/en/write) | [NEWS](https://english.hani.co.kr/arti/english_edition) | [뉴스](https://news.naver.com)  
 [구글트렌드](https://trends.google.co.kr/trending?geo=KR&status=active&sort=recency&hours=24) | [시그널실검](https://signal.bz/) | [로워드실검](https://loword.co.kr/keywordTrend) | [브런치스토리](https://brunch.co.kr/now) | [티스토리](https://www.tistory.com/category/current)  
-
-[에인트호벤](https://www.google.com/maps/place/네덜란드+에인트호벤/@51.4401648,5.4604344,14z/data=!4m6!3m5!1s0x47c6d91b5579c39f:0xf39ad2648164b998!8m2!3d51.4231423!4d5.4622897!16zL20vMDJreDM?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D) | 
-[석촌아뜰리에](https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T200&dCode=T204) | [서울버스킹](https://seoulbusking.com/2026/sub/schedule.html) | |  
+[에인트호벤](https://www.google.com/maps/place/네덜란드+에인트호벤/@51.4401648,5.4604344,14z/data=!4m6!3m5!1s0x47c6d91b5579c39f:0xf39ad2648164b998!8m2!3d51.4231423!4d5.4622897!16zL20vMDJreDM?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D) | [석촌아뜰리에](https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T200&dCode=T204) | [서울버스킹](https://seoulbusking.com/2026/sub/schedule.html) | |  
