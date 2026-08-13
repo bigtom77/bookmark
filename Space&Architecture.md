@@ -7,4 +7,6 @@
 | **[Designboom](https://www.designboom.com/)**<br>• **특징:** 1999년에 개설된 세계 최초의 디지털 건축·디자인 매거진<br>• **용도:** 건축, 설치 예술, 디지털 아트, 기술이 융합된 실험적 공간 아이디어 | **[매거진 브리크 (brique)](https://brique.co/)**<br>• **특징:** 도시 주거/상업 공간 큐레이션 미디어<br>• **용도:** 협소주택, 단독주택, 감성 카페, 공유 오피스 등 현실적 아이디어 |
 | **[Architizer](https://architizer.com/)**<br>• **특징:** 건축가들의 포트폴리오를 기반으로 운영되는 대규모 건축 네트워크<br>• **용도:** 외장재, 마감재, 창호 등 건축 자재 정보와 디테일한 시공 사례 | |
 | **[Dwell](https://www.dwell.com/)**<br>• **특징:** 현대적 주거 공간 및 건축 전문 플랫폼<br>• **용도:** 단독주택, 소형주택, 리모델링 등 공간 인테리어와 구성 아이디어 | |
-| **[Visualizing Architecture](https://visualizingarchitecture.com/)**<br>• **특징:** 건축가 Alex Hogrefe의 건축 시각화(렌더링/다이어그램) 블로그<br>• **용도:** 공간을 도면이나 3D 그래픽으로 어떻게 시각화할지 아이디어 | |
+| **[Divisare](https://www.divisare.com/)**<br>• **특징:** 세계 최대 규모의 온라인 현대 건축 라이브러리<br>• **용도:** 건축 디자인 아카이브와 지식 정리 | **[Visualizing Architecture](https://visualizingarchitecture.com/)**<br>• **특징:** 건축가 Alex Hogrefe의 건축 시각화(렌더링/다이어그램) 블로그<br>• **용도:** 공간을 도면이나 3D 그래픽으로 어떻게 시각화할지 아이디어 |
+
+
