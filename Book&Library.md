@@ -1,3 +1,5 @@
+# 도서관
+
 [전자책 통합검색](http://ebook.starlove.net)  
 
 구독 도서관 -------  
@@ -22,14 +24,3 @@
 (정회원 제약)
 [김제시립 gj](https://ebook-gjl.gimje.go.kr:444/elibrary-front/member/memberLogin.ink)  |
 [오산시중앙](https://www.osanlibrary.go.kr/intro/program/memberLogin.do)  
-
-문화/체험 행사 -------  
-[송파글마루](https://www.splib.or.kr/spjlib/index.do)  |
-[송파구통합](https://www.splib.or.kr/intro/menu/10052/program/30014/eventList.do)  |
-[강남구통합](https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do)  |
-[강동구통합](https://www.gdlibrary.or.kr/portal/menu/46/tmpr/lctr-evnt/reading)  |
-[광진정보](https://www.gwangjinlib.seoul.kr/gjinfo/eventList.do?programTypeCd=news)  |
-[성동구립](https://www.sdlib.or.kr/SD/edusat/list.do)  |
-[서울시교육청통합](https://lib.sen.go.kr/lib/module/teach/index.do?menu_idx=11)  
-[서울시공공서비스예약](https://yeyak.seoul.go.kr/web/main.do)  |
-[서울시집수리닷컴](https://jibsuri.seoul.go.kr/academy/list.do)  |
