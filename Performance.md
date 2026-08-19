@@ -1,9 +1,9 @@
-# 공연, 예술, 문화행사  
+# 공연, 예술
 
 [서울문화포털 공연정보](https://culture.seoul.go.kr/culture/culture/cultureEvent/list.do?searchCate=SHOW&menuNo=200008)  
 
 
-문화/체험 행사 -------  
+# 문화, 체험 행사
 [송파글마루](https://www.splib.or.kr/spjlib/index.do)  |
 [송파구통합](https://www.splib.or.kr/intro/menu/10052/program/30014/eventList.do)  |
 [강남구통합](https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do)  |
