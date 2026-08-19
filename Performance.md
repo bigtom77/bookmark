@@ -1,8 +1,8 @@
 # 공연, 예술
 
-[서울버스킹](https://seoulbusking.com/2026/sub/schedule.html)  
-[서울문화포털](https://culture.seoul.go.kr/culture/culture/cultureEvent/list.do?searchCate=SHOW&menuNo=200008)  
-[성남문화재단](https://www.snart.or.kr/main/cal_prex/calendar.do)  
+[서울버스킹](https://seoulbusking.com/2026/sub/schedule.html) | 
+[서울문화포털](https://culture.seoul.go.kr/culture/culture/cultureEvent/list.do?searchCate=SHOW&menuNo=200008) | 
+[성남문화재단](https://www.snart.or.kr/main/cal_prex/calendar.do) | 
 [석촌아뜰리에](https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T200&dCode=T204)  
 
 # 문화, 체험 행사
