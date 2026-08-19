@@ -1,4 +1,4 @@
-차 --------------------------------------------------------  
+# 차 
 
 [녹차 우롱 홍차 보이차](https://m.blog.naver.com/healthy_foodist/222680115179)  
 [녹차 작설 우전 세작 중작 대작](https://brunch.co.kr/@brunch3auo/42)  
@@ -59,13 +59,13 @@ Sinensis는 중국(Sina) 유래종 의미.  동백꽃 나무는 Camellia Japonic
 
 
 
-커피 ------------------------------------------------------  
+# 커피 
   
 [커피 로스팅](https://m.blog.naver.com/zenzen49/221744650615) 배전焙煎(ばいせん) Agtron number  
 
 
 
-와인 ------------------------------------------------------  
+# 와인 
 
 [와인 맛 표현](https://dayswithday.tistory.com/category/%EB%8D%B0%EC%9D%B4%EC%9D%98%20%EA%B3%B5%EB%B6%80/f%20%26%20b)  
 [와인 향 표현](https://brunch.co.kr/@typhoonk83/28)  
