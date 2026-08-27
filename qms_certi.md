@@ -10,3 +10,6 @@
   
 # VDA
 [VDA6.3심사](https://blog.naver.com/coolsky07/222822366850)    
+
+# 자동차업계표준 최신정보
+https://www.youtube.com/@AutomotiveToolsKnowledge-um4zh/videos
