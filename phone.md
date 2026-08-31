@@ -2,4 +2,4 @@
   
 [프리티](https://www.freet.co.kr/plan/ratePlan)  
 [티플러스](https://tplusmobile.com/main/rate/join)  
-[아이즈](https://www.eyes.co.kr/payplan/all_plan)  
+[아이즈](https://www.eyes.co.kr/mypage/main)  
