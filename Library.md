@@ -21,4 +21,4 @@
 [김제시립 gj](https://ebook-gjl.gimje.go.kr:444/elibrary-front/member/memberLogin.ink)  |
 [오산시중앙](https://www.osanlibrary.go.kr/intro/program/memberLogin.do)  
   
-[전자책 통합검색](http://ebook.starlove.net)  
+[전자책 통합검색](https://ebook.starlove.net/ebook)  
