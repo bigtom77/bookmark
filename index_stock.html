@@ -1,1 +1,537 @@
-test
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>View Form — 재무 계산 시트</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    color: #333;
+    padding: 24px;
+    min-height: 100vh;
+  }
+  h1 {
+    font-size: 22px;
+    margin-bottom: 4px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 24px;
+  }
+  .section {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    margin-bottom: 24px;
+    overflow: hidden;
+  }
+  .section-title {
+    background: #2c3e50;
+    color: #fff;
+    padding: 10px 16px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  th {
+    background: #ecf0f1;
+    padding: 8px 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #2c3e50;
+    border: 1px solid #d0d5d9;
+    white-space: nowrap;
+  }
+  td {
+    padding: 7px 10px;
+    text-align: right;
+    border: 1px solid #d0d5d9;
+    font-variant-numeric: tabular-nums;
+  }
+  td.label {
+    text-align: center;
+    font-weight: bold;
+    background: #fafbfc;
+  }
+  td.class-label {
+    text-align: center;
+    font-weight: bold;
+    background: #eef2f7;
+    color: #2c3e50;
+  }
+  td.text {
+    text-align: center;
+  }
+  tr.subtotal td {
+    background: #fffde7;
+    font-weight: bold;
+  }
+  tr.summary td {
+    background: #e8f5e9;
+    font-weight: bold;
+  }
+  .formula {
+    color: #2980b9;
+    font-size: 11px;
+    font-style: italic;
+  }
+  .num { color: #000; }
+  .neg { color: #c0392b; }
+  .pos { color: #27ae60; }
+  .formula-cell {
+    color: #1a5276;
+    font-size: 12px;
+  }
+  .input-cell {
+    width: 100%;
+    padding: 5px 8px;
+    border: 1px solid #5dade2;
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    background: #fef9e7;
+    color: #000;
+    outline: none;
+    box-sizing: border-box;
+  }
+  .input-cell:focus {
+    border-color: #e74c3c;
+    box-shadow: 0 0 3px rgba(231,76,60,0.4);
+  }
+  td.input-td { padding: 3px 4px; }
+  .note {
+    font-size: 11px;
+    color: #7f8c8d;
+    padding: 8px 16px;
+    background: #fdfefe;
+    border-top: 1px solid #eee;
+  }
+  .note code {
+    background: #f4f6f7;
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 11px;
+    color: #2c3e50;
+  }
+  .legend {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    color: #666;
+  }
+  .legend span {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .legend .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    display: inline-block;
+  }
+  .legend .dot-blue { background: #d6eaf8; border: 1px solid #2980b9; }
+  .legend .dot-green { background: #e8f5e9; border: 1px solid #27ae60; }
+  .legend .dot-yellow { background: #fffde7; border: 1px solid #f1c40f; }
+  .legend .dot-formula { background: #1a5276; }
+</style>
+</head>
+<body>
+
+<h1>View Form</h1>
+<p class="subtitle">엑셀 원본 시트의 구조·수식·계산값을 그대로 재현한 재무 계산 시트</p>
+
+<div class="legend">
+  <span><span class="dot dot-blue"></span> 입력값(하드코드)</span>
+  <span><span class="dot dot-formula" style="width:14px;height:3px;"></span> 수식</span>
+  <span><span class="dot dot-yellow"></span> 소계</span>
+  <span><span class="dot dot-green"></span> 합계/요약</span>
+</div>
+
+<!-- ==================== 섹션 1: 클래스별 상세 ==================== -->
+<div class="section">
+  <div class="section-title">섹션 1 — 클래스별 수량·단가·총액</div>
+  <table id="section1">
+    <thead>
+      <tr>
+        <th>Class</th>
+        <th>S/H</th>
+        <th>Q (수량)</th>
+        <th>BEP</th>
+        <th>CUR (단가)</th>
+        <th>TOT (총액)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- 14_A -->
+      <tr>
+        <td class="class-label" rowspan="2">14_A</td>
+        <td class="label">S</td>
+        <td><span class="formula-cell" id="c2"></span><br><span class="num" id="c2v"></span></td>
+        <td class="num" id="d2"></td>
+        <td class="input-td"><input type="number" class="input-cell" id="e2-input" value="270000" step="1" title="정수 입력 가능"></td>
+        <td><span class="formula-cell" id="f2"></span><br><span class="num" id="f2v"></span></td>
+      </tr>
+      <tr>
+        <td class="label">H</td>
+        <td class="num" id="c3"></td>
+        <td class="num" id="d3"></td>
+        <td class="input-td"><input type="number" class="input-cell" id="e3-input" value="1760000" step="1" title="정수 입력 가능"></td>
+        <td><span class="formula-cell" id="f3"></span><br><span class="num" id="f3v"></span></td>
+      </tr>
+      <!-- 71_A -->
+      <tr>
+        <td class="class-label" rowspan="2">71_A</td>
+        <td class="label">S</td>
+        <td class="num" id="c4"></td>
+        <td class="num" id="d4"></td>
+        <td><span class="formula-cell" id="e4"></span><br><span class="num" id="e4v"></span></td>
+ <td><span class="formula-cell" id="f4"></span><br><span class="num" id="f4v"></span></td>
+      </tr>
+      <tr>
+        <td class="label">H</td>
+        <td class="num" id="c5"></td>
+        <td class="num" id="d5"></td>
+        <td><span class="formula-cell" id="e5"></span><br><span class="num" id="e5v"></span></td>
+        <td><span class="formula-cell" id="f5"></span><br><span class="num" id="f5v"></span></td>
+      </tr>
+      <!-- IS_A -->
+      <tr>
+        <td class="class-label" rowspan="2">IS_A</td>
+        <td class="label">S</td>
+        <td class="num" id="c6"></td>
+        <td class="num" id="d6"></td>
+        <td><span class="formula-cell" id="e6"></span><br><span class="num" id="e6v"></span></td>
+        <td><span class="formula-cell" id="f6"></span><br><span class="num" id="f6v"></span></td>
+      </tr>
+      <tr>
+        <td class="label">H</td>
+        <td class="num" id="c7"></td>
+        <td class="num" id="d7"></td>
+        <td><span class="formula-cell" id="e7"></span><br><span class="num" id="e7v"></span></td>
+        <td><span class="formula-cell" id="f7"></span><br><span class="num" id="f7v"></span></td>
+      </tr>
+      <!-- 소계/합계 -->
+      <tr class="subtotal">
+        <td colspan="4" class="text" id="e8">Sum</td>
+        <td></td>
+        <td><span class="formula-cell" id="f8"></span><br><span class="num" id="f8v"></span></td>
+      </tr>
+      <tr class="summary">
+        <td colspan="4" class="text" id="e9">Plus retire</td>
+        <td></td>
+        <td><span class="formula-cell" id="f9"></span><br><span class="num" id="f9v"></span></td>
+      </tr>
+      <tr class="summary">
+        <td colspan="4" class="text" id="e10">Minus gift</td>
+        <td></td>
+        <td><span class="formula-cell" id="f10"></span><br><span class="num" id="f10v"></span></td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="note">
+    <b>수식:</b>
+    <code>F = Q × CUR</code> (총액 = 수량 × 단가) ·
+    <code>E4=E2, E5=E3, E6=E4, E7=E5</code> (단가 참조) ·
+    <code>F8 = SUM(F2:F7)</code> ·
+    <code>F9 = F8 + 490,000,000</code> ·
+    <code>F10 = F9 − E2×600</code>
+  </div>
+</div>
+
+<!-- ==================== 섹션 2: S/H 합계 ==================== -->
+<div class="section">
+  <div class="section-title">섹션 2 — S/H별 합계 및 수익률</div>
+  <table id="section2">
+    <thead>
+      <tr>
+        <th>Class</th>
+        <th>Q (합계)</th>
+        <th>BEP</th>
+        <th>Origin</th>
+        <th>Curr TOT</th>
+        <th>Yield</th>
+        <th>Proportion</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="label">S</td>
+        <td><span class="formula-cell" id="c14"></span><br><span class="num" id="c14v"></span></td>
+        <td><span class="formula-cell" id="d14"></span><br><span class="num" id="d14v"></span></td>
+        <td><span class="formula-cell" id="e14"></span><br><span class="num" id="e14v"></span></td>
+        <td><span class="formula-cell" id="f14"></span><br><span class="num" id="f14v"></span></td>
+        <td><span class="formula-cell" id="g14"></span><br><span class="num" id="g14v"></span></td>
+        <td><span class="formula-cell" id="h14"></span><br><span class="num" id="h14v"></span></td>
+      </tr>
+      <tr>
+        <td class="label">H</td>
+        <td><span class="formula-cell" id="c15"></span><br><span class="num" id="c15v"></span></td>
+        <td><span class="formula-cell" id="d15"></span><br><span class="num" id="d15v"></span></td>
+        <td><span class="formula-cell" id="e15"></span><br><span class="num" id="e15v"></span></td>
+        <td><span class="formula-cell" id="f15"></span><br><span class="num" id="f15v"></span></td>
+        <td><span class="formula-cell" id="g15"></span><br><span class="num" id="g15v"></span></td>
+        <td><span class="formula-cell" id="h15"></span><br><span class="num" id="h15v"></span></td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="note">
+    <b>수식:</b>
+    <code>Q = S행 또는 H행의 Q 합산</code> ·
+    <code>Origin = Σ(Q×BEP)</code> (가중평균 원금) ·
+    <code>BEP = ROUNDUP(Origin / Q, -3)</code> (천원 단위 올림) ·
+    <code>Curr TOT = SUM(해당 TOT)</code> ·
+    <code>Yield = Curr TOT / Origin</code> ·
+    <code>Proportion = Curr TOT / 전체 TOT</code>
+  </div>
+</div>
+
+<!-- ==================== 섹션 3: 대출 이자 계산 ==================== -->
+<div class="section">
+  <div class="section-title">섹션 3 — 대출 이자 및 수익률</div>
+  <table id="section3">
+    <thead>
+      <tr>
+        <th>Monthly Interest</th>
+        <th>Acc. Interest (누적이자)</th>
+        <th>Loan (대출원금)</th>
+        <th>Curr TOT</th>
+        <th>Yield</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="num" id="c19"></td>
+        <td><span class="formula-cell" id="d19"></span><br><span class="num" id="d19v"></span></td>
+        <td><span class="formula-cell" id="e19"></span><br><span class="num" id="e19v"></span></td>
+        <td><span class="formula-cell" id="f19"></span><br><span class="num" id="f19v"></span></td>
+        <td><span class="formula-cell" id="g19"></span><br><span class="num" id="g19v"></span></td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="note">
+    <b>수식:</b>
+    <code>D19 = DATEDIF(DATE(2026,2,5), TODAY(), "m") × C19</code> (개월 수 × 월 이자, 종료일=오늘) ·
+    <code>E19 = 135,000,000 + D19</code> (원금 + 누적이자) ·
+    <code>F19 = C5×E5 + C4×E4 + C7×E7 + C6×E6</code> (현재 총액) ·
+    <code>G19 = F19 / E19</code> (수익률)
+  </div>
+</div>
+
+<script>
+// ============================================================
+// 엑셀 원본 데이터 (입력값 + 수식 + 계산값)
+// ============================================================
+const data = {
+  // 섹션 1 — 행 2~7
+  c2: { formula: '=1077+300+150+150', value: 1677 },
+  d2: { value: 123700 },
+  e2: { value: 270000 },
+  f2: { formula: '=C2*(E2)', value: 452790000 },
+
+  c3: { value: 126 },
+  d3: { value: 679200 },
+  e3: { value: 1760000 },
+  f3: { formula: '=C3*(E3)', value: 221760000 },
+
+  c4: { value: 120 },
+  d4: { value: 216500 },
+  e4: { formula: '=E2', value: 270000 },
+  f4: { formula: '=C4*(E4)', value: 32400000 },
+
+  c5: { value: 47 },
+  d5: { value: 2086600 },
+  e5: { formula: '=E3', value: 1760000 },
+  f5: { formula: '=C5*(E5)', value: 82720000 },
+
+  c6: { value: 106 },
+  d6: { value: 348300 },
+  e6: { formula: '=E4', value: 270000 },
+  f6: { formula: '=C6*(E6)', value: 28620000 },
+
+  c7: { value: 8 },
+  d7: { value: 2378400 },
+  e7: { formula: '=E5', value: 1760000 },
+  f7: { formula: '=C7*(E7)', value: 14080000 },
+
+  // 소계/합계
+  f8: { formula: '=SUM(F2:F7)', value: 832370000 },
+  f9: { formula: '=F8+490000000', value: 1322370000 },
+  f10: { formula: '=F9-E2*600', value: 1160370000 },
+
+  // 섹션 2 — 행 14~15
+  c14: { formula: '=C2+C4+C6', value: 1903 },
+  d14: { formula: '=ROUNDUP(E14/C14,-3)', value: 143000 },
+  e14: { formula: '=C2*D2+C4*D4+C6*D6', value: 270344700 },
+  f14: { formula: '=SUM(F2,F4,F6)', value: 513810000 },
+  g14: { formula: '=F14/E14', value: 1.9005736010360106 },
+  h14: { formula: '=F14/SUM($F$14:$F$15)', value: 0.6172855821329457 },
+
+  c15: { formula: '=C3+C5+C7', value: 181 },
+  d15: { formula: '=ROUNDUP(E15/C15,-3)', value: 1120000 },
+  e15: { formula: '=C3*D3+C5*D5+C7*D7', value: 202676600 },
+  f15: { formula: '=SUM(F3,F5,F7)', value: 318560000 },
+  g15: { formula: '=F15/E15', value: 1.571765068093702 },
+  h15: { formula: '=F15/SUM($F$14:$F$15)', value: 0.3827144178670543 },
+
+  // 섹션 3 — 행 19
+  c19: { value: 500000 },
+  d19: { formula: '=DATEDIF(DATE(2026,2,5),DATE(2026,9,28),"m")*C19', value: 3500000 },
+  e19: { formula: '=135000000+D19', value: 138500000 },
+  f19: { formula: '=$C$5*E5+$C$4*E4+$C$7*E7+C6*E6', value: 157820000 },
+  g19: { formula: '=F19/$E$19', value: 1.139494584837545 },
+};
+
+// ============================================================
+// D19 동적 계산 — 종료일을 '오늘(HTML 열람일)'로 반영
+// 원본: =DATEDIF(DATE(2026,2,5),DATE(2026,9,28),"m")*C19
+// ============================================================
+(function() {
+  const start = new Date(2026, 1, 5); // 2026-02-05 (대출 시작일, JS month 0-indexed)
+  const now = new Date();
+  const y = now.getFullYear(), m = now.getMonth() + 1, d = now.getDate();
+  // Excel DATEDIF("m"): 완전히 경과한 개월 수
+  let months = (now.getFullYear() - start.getFullYear()) * 12 + (now.getMonth() - start.getMonth());
+  if (now.getDate() < start.getDate()) months--;
+  const monthly = data.c19.value;
+  const d19val = months * monthly;
+  const e19val = 135000000 + d19val;
+  const f19val = data.f19.value;
+  data.d19 = { formula: `=DATEDIF(DATE(2026,2,5),DATE(${y},${m},${d}),"m")*C19`, value: d19val };
+  data.e19 = { formula: '=135000000+D19', value: e19val };
+  data.g19 = { formula: '=F19/$E$19', value: f19val / e19val };
+})();
+
+// ============================================================
+// 포맷 함수
+// ============================================================
+function fmtNum(v) {
+  if (v === null || v === undefined || v === '') return '';
+  if (typeof v === 'number') {
+    return v.toLocaleString('en-US');
+  }
+  return v;
+}
+
+function fmtPct(v) {
+  if (typeof v === 'number') {
+    return (v * 100).toFixed(2) + '%';
+  }
+  return v;
+}
+
+function fmtYield(v) {
+  if (typeof v === 'number') {
+    return v.toFixed(4) + 'x';
+  }
+  return v;
+}
+
+// ============================================================
+// 렌더링
+// ============================================================
+function render() {
+  document.querySelectorAll('[id]').forEach(el => {
+    const id = el.id;
+    if (el.classList.contains('text')) return; // 정적 텍스트 셀은 스킵
+
+    // formula-cell span: 수식 표시
+    if (el.classList.contains('formula-cell')) {
+      const cell = data[id];
+      if (cell && cell.formula) el.textContent = cell.formula;
+      return;
+    }
+
+    // num 셀: 값 표시 (v 접미사 ID → base ID로 변환)
+    if (el.classList.contains('num')) {
+      let baseId = id;
+      let cell = data[baseId];
+      if (!cell && id.endsWith('v')) {
+        baseId = id.slice(0, -1);
+        cell = data[baseId];
+      }
+      if (!cell) return;
+      const val = cell.value;
+      if (baseId.startsWith('g')) el.textContent = fmtYield(val);
+      else if (baseId.startsWith('h')) el.textContent = fmtPct(val);
+      else el.textContent = fmtNum(val);
+    }
+  });
+}
+
+// ============================================================
+// 재계산 — E2/E3 입력값 변경 시 모든 의존 셀 재계산
+// ============================================================
+function recalc() {
+  // 입력값 읽기
+  const e2 = parseInt(document.getElementById('e2-input').value) || 0;
+  const e3 = parseInt(document.getElementById('e3-input').value) || 0;
+  data.e2.value = e2;
+  data.e3.value = e3;
+
+  // 단가 참조 (E4=E2, E5=E3, E6=E4, E7=E5)
+  data.e4.value = e2;
+  data.e5.value = e3;
+  data.e6.value = e2;
+  data.e7.value = e3;
+
+  // 총액 (F = Q × CUR)
+  data.f2.value = data.c2.value * e2;
+  data.f3.value = data.c3.value * e3;
+  data.f4.value = data.c4.value * data.e4.value;
+  data.f5.value = data.c5.value * data.e5.value;
+  data.f6.value = data.c6.value * data.e6.value;
+  data.f7.value = data.c7.value * data.e7.value;
+
+  // 소계/합계
+  data.f8.value = data.f2.value + data.f3.value + data.f4.value + data.f5.value + data.f6.value + data.f7.value;
+  data.f9.value = data.f8.value + 490000000;
+  data.f10.value = data.f9.value - e2 * 600;
+
+  // 섹션 2 — S 합계
+  data.c14.value = data.c2.value + data.c4.value + data.c6.value;
+  data.e14.value = data.c2.value * data.d2.value + data.c4.value * data.d4.value + data.c6.value * data.d6.value;
+  data.d14.value = Math.ceil(data.e14.value / data.c14.value / 1000) * 1000;
+  data.f14.value = data.f2.value + data.f4.value + data.f6.value;
+  data.g14.value = data.f14.value / data.e14.value;
+
+  // 섹션 2 — H 합계
+  data.c15.value = data.c3.value + data.c5.value + data.c7.value;
+  data.e15.value = data.c3.value * data.d3.value + data.c5.value * data.d5.value + data.c7.value * data.d7.value;
+  data.d15.value = Math.ceil(data.e15.value / data.c15.value / 1000) * 1000;
+  data.f15.value = data.f3.value + data.f5.value + data.f7.value;
+  data.g15.value = data.f15.value / data.e15.value;
+
+  // 비율
+  const totF = data.f14.value + data.f15.value;
+  data.h14.value = data.f14.value / totF;
+  data.h15.value = data.f15.value / totF;
+
+  // 섹션 3 — F19, G19 (D19/E19은 날짜 기반이므로 그대로)
+  data.f19.value = data.c5.value * data.e5.value + data.c4.value * data.e4.value + data.c7.value * data.e7.value + data.c6.value * data.e6.value;
+  data.g19.value = data.f19.value / data.e19.value;
+
+  render();
+}
+
+document.getElementById('e2-input').addEventListener('input', recalc);
+document.getElementById('e3-input').addEventListener('input', recalc);
+
+recalc();
+</script>
+
+</body>
+</html>
+
