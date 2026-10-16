@@ -12,7 +12,7 @@
 [송파구](https://www.splib.or.kr/intro/program/memberLogin.do)  |
 [광진구77](https://www.gwangjinlib.seoul.kr/gjinfo/memberLogin.do?returnUrl=/gjinfo/40007/contents.do)  |
 [성동구](https://www.sdlib.or.kr/SD/site/member/login.do?prepage=%2FSD%2Fmain.do)  |
-[강북구](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  |  
+[강북구](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)   
 [서울시교육청sen](https://e-lib.sen.go.kr/login)  |
 [경기도](https://ebook.library.kr/login)  |
 [수원시swl](https://ebook.suwonlib.go.kr/elibrary-front/member/memberLogin.ink)  |
