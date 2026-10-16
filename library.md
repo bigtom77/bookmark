@@ -4,7 +4,7 @@
 
 # 대출 도서관
 [서초구](https://ebook.seocholib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.seocholib.or.kr/elibrary-front/main.ink)  |
-[강남구](https://ebook.gangnam.go.kr/libmem/mem_login.asp)  |
+[강남구](https://ebook.gangnam.go.kr/elibmem/mem_login.asp)  |
 [송파구통합](https://www.splib.or.kr/intro/program/memberLogin.do)  |
 [광진구립 77](https://www.gwangjinlib.seoul.kr/gjinfo/memberLogin.do?returnUrl=/gjinfo/40007/contents.do)  |
 [성동구립](https://www.sdlib.or.kr/SD/site/member/login.do?prepage=%2FSD%2Fmain.do)  |
