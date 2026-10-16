@@ -1,11 +1,11 @@
-# 구독 도서관
+# 구독형 전자도서관
 [서초구](https://seocholib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [송파구](https://splib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//splib.dkyobobook.co.kr/main.ink)  |
 [인천서구](https://issllib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [부커스 : 서울시교육청,경기도,광진구77,강북구](https://www.bookers.life/login.do)  |  
 (정회원 제약 : 강북,서대문구)
 
-# 대출 도서관
+# 대출형 전자도서관
 [서초구](https://ebook.seocholib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.seocholib.or.kr/elibrary-front/main.ink)  |
 [강남구](https://ebook.gangnam.go.kr/elibmem/mem_login.asp)  |
 [송파구](https://www.splib.or.kr/intro/program/memberLogin.do)  |
