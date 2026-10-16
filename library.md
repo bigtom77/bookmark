@@ -1,5 +1,5 @@
 # 구독형 전자도서관
-[부커스 : 서울시교육청sen,경기도,광진구77,강북구](https://www.bookers.life/login.do)  
+[부커스(서울시교육청sen,경기도,광진구77,강북구)](https://www.bookers.life/login.do)  
 [서초구](https://seocholib.dkyobobook.co.kr/member/memberLogin.ink)  |
 [송파구](https://splib.dkyobobook.co.kr/member/memberLogin.ink?redirectUrl=https%3A//splib.dkyobobook.co.kr/main.ink)  |
 [인천서구](https://issllib.dkyobobook.co.kr/member/memberLogin.ink)
