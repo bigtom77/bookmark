@@ -19,7 +19,7 @@
 [경산시 gbgs](https://elib.gbgs.go.kr/member/?mode=login)
 
 (정회원 제약)
-[강북구](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  
+[강북구](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  |
 [김제시 gj](https://ebook-gjl.gimje.go.kr:444/elibrary-front/member/memberLogin.ink)  |
 [오산시](https://www.osanlibrary.go.kr/intro/program/memberLogin.do)  
   
