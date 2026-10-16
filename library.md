@@ -20,6 +20,7 @@
 (정회원 제약)
 [강북구](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  |
 [성북구](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
+[서대문구](https://lib.sdm.or.kr/sdmlib/program/memberLogin.do?returnUrl=aHR0cHM6Ly9saWIuc2RtLm9yLmtyL3NkbWVib29rL2luZGV4LmRv)  |
 [오산시](https://www.osanlibrary.go.kr/intro/program/memberLogin.do)  
   
 # 전자도서관 통합검색
