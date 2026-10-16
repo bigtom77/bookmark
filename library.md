@@ -10,7 +10,6 @@
 [송파구](https://www.splib.or.kr/intro/program/memberLogin.do)  |
 [광진구 77](https://www.gwangjinlib.seoul.kr/gjinfo/memberLogin.do?returnUrl=/gjinfo/40007/contents.do)  |
 [성동구](https://www.sdlib.or.kr/SD/site/member/login.do?prepage=%2FSD%2Fmain.do)  |
-[성북구](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
 [서울시교육청 sen](https://e-lib.sen.go.kr/login)  |
 [경기도](https://ebook.library.kr/login)  |
 [수원시 swl](https://ebook.suwonlib.go.kr/elibrary-front/member/memberLogin.ink)  |
@@ -20,6 +19,7 @@
 
 (정회원 제약)
 [강북구](https://ebook.gblib.or.kr/elibrary-front/member/memberLogin.ink?redirectUrl=https%3A//ebook.gblib.or.kr/elibrary-front/main.ink)  |
+[성북구](https://www.sblib.seoul.kr/sblib/menu/10189/program/30049/login.do)  |
 [김제시 gj](https://ebook-gjl.gimje.go.kr:444/elibrary-front/member/memberLogin.ink)  |
 [오산시](https://www.osanlibrary.go.kr/intro/program/memberLogin.do)  
   
