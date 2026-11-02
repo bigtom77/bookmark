@@ -7,6 +7,7 @@
 [MBC라디오](https://miniwebapp.imbc.com/index?channel=mfm)  
 [Radio Swiss](https://www.radioswissclassic.ch/en)  
 [인기 웹사이트](https://ko.semrush.com/trending-websites/kr/all)  
+[보이저](https://kdejevoyager.cz/ko)  
 [NASA 아이즈](https://eyes.nasa.gov)  
 
 [YouTube Download](https://www.mediamister.com/free-youtube-video-downloader)  
