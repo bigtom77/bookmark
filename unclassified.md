@@ -32,6 +32,7 @@
 [밀리타 카페오 솔로 청소법](https://handakim.tistory.com/95)
   
 [차 네비 업데이트](https://update.hyundai.com/KR/KO/search)  
+[현대차 네메시스 크랙](https://xwtk.cloud/services/nemesis/)  
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/PostView.naver?blogId=levis83&logNo=223713766003&navType=by) 광진구 25년210만원  
 [더뉴그랜저 반자율주행 설치](https://m.oh-car.co.kr/goods/goods_view.php?goodsNo=1000356894) 양천구 중고부품  
 [더뉴그랜저 반자율주행 설치](https://m.blog.naver.com/dexcrewgj/222861988691) 전남광주  
