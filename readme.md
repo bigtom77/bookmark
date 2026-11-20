@@ -2,6 +2,6 @@
 <!-- 표 셀 내용 왼쪽정렬 :--- , 오른쪽정렬 ---: , 가운데정렬 :---: -->
 |  |  |  |  |  |  |  
 |--|--|--|--|--|--|  
-[출퇴근셔틀]( http://samsung.u-vis.com/esw) | [피트니스](https://fit.shillashp.com/my/user-info/entrance-detail) | [지도](https://map.naver.com/) | [날씨](https://www.weather.go.kr/w/index.do) | [유튜브](https://www.youtube.com) | [네이버](https://www.naver.com)  
+[출퇴버스]( http://samsung.u-vis.com/esw) | [피트니스](https://fit.shillashp.com/my/user-info/entrance-detail) | [지도](https://map.naver.com/) | [날씨](https://www.weather.go.kr/w/index.do) | [유튜브](https://www.youtube.com) | [네이버](https://www.naver.com)  
 [사전](https://dict.naver.com) | [파파고](https://papago.naver.com/?sk=auto&tk=en) | [DeepL](https://www.deepl.com/en/write) | [구글트렌드](https://trends.google.co.kr/trending?geo=KR&status=active&sort=recency&hours=24) | [시그널실검](https://signal.bz/) | [로워드실검](https://loword.co.kr/keywordTrend)  
 [브런치스토리](https://brunch.co.kr/now) | [티스토리](https://www.tistory.com/category/current) | [NEWS](https://english.hani.co.kr/arti/english_edition) | [뉴스](https://news.naver.com) |  |  | 
